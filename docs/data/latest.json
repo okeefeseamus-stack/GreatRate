@@ -1,11 +1,11 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-09-20T11:05-04:00",
- "date": "2026-09-20",
- "rate": 5.89,
- "previous": 5.86,
- "change": 0.03,
- "averaged_count": 3,
+ "updated_at": "2026-09-27T10:29-04:00",
+ "date": "2026-09-27",
+ "rate": 6.54,
+ "previous": 6.52,
+ "change": 0.02,
+ "averaged_count": 2,
  "sources": [
   {
    "id": "optimal_blue",
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 5.86,
-   "as_of": "2026-09-18",
+   "value": 6.524,
+   "as_of": "2026-09-24",
    "error": null,
    "excluded": false
   },
@@ -26,10 +26,10 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 5.84,
-   "as_of": "2026-09-20",
+   "value": 7.1,
+   "as_of": "2026-09-27",
    "error": null,
-   "excluded": false
+   "excluded": true
   },
   {
    "id": "tmr",
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 5.97,
-   "as_of": "2026-09-20",
+   "value": 6.551,
+   "as_of": "2026-09-27",
    "error": null,
    "excluded": false
   },
@@ -50,8 +50,8 @@
    "note": "Weekly survey, Thursdays",
    "in_average": false,
    "type": "fred",
-   "value": 5.79,
-   "as_of": "2026-09-18",
+   "value": 6.42,
+   "as_of": "2026-09-24",
    "error": null,
    "excluded": false
   },
@@ -70,57 +70,63 @@
  ],
  "metrics": {
   "high_6m": {
-   "value": 5.9,
-   "date": "2026-08-05"
+   "value": 6.54,
+   "date": "2026-09-21"
   },
   "low_6m": {
-   "value": 5.07,
-   "date": "2026-05-21"
+   "value": 5.45,
+   "date": "2026-04-20"
   },
   "rate_30y": {
-   "value": 6.52,
-   "date": "2026-09-18",
+   "value": 7.244,
+   "date": "2026-09-24",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 4.12,
-   "date": "2026-09-18",
+   "value": 5.18,
+   "date": "2026-09-24",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
   "median_home_price": {
-   "value": 412300.0,
+   "value": 410700.0,
    "date": "2026-04-01",
    "series": "MSPUS",
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.63
+   "value": 0.7
   }
  },
  "news": [
   {
-   "title": "Mortgage rates slip to their lowest level since spring",
-   "url": "https://example.com/1",
-   "outlet": "CNBC",
-   "published": "2026-09-18",
+   "title": "Mortgage rates today, Sept. 25, 2026: Rates take another jump upward",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90S2RTRFhvUFJiajVKV3RsREJTZzA4d21peGhaQVE3elUtSlRxZmZfcUhvZnQyQXdwUFBqUmRBdE5oQWJoQmJNaXpVOFdUR3dhb2pMX1k1Q25FQVRVbXU4QWhvMGNISTZRZXZGVklQYw?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-09-25",
    "preferred": true
   },
   {
-   "title": "15-year refinance demand picks up as rates ease",
-   "url": "https://example.com/2",
-   "outlet": "Mortgage News Daily",
-   "published": "2026-09-17",
+   "title": "Current Rhode Island Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01R1dpdERIbHM3TkZQaTFMRlV4cVhLTXBCajJoa2FCNnROMDBHNXprWWRvWkF5eXQ3V2M4TEViYVp6ZjhCTkFuNm1hc3pILUgtVEYwa3NBZjhZbVItaFhoYXBTY1lsUmFkck1jdWpkYkRwaTRVM25B?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-09-25",
    "preferred": true
   },
   {
-   "title": "What the Fed's September decision means for home loans",
-   "url": "https://example.com/3",
-   "outlet": "Reuters",
-   "published": "2026-09-17",
+   "title": "Current Nebraska Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRndhYXVOMWN6V2lIMW5KN3FDRFlYNzZQMXNsWWxWRGpZbkxnWWNFLXlMaWlNWTJnRUxxVGFseGJZWjBNM3VtcUU4ZDBSMFhOOWF3SUgybm1JMnFMT2N5SS1EZWQ3OC1acGNTUHdueW1OUQ?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-09-25",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage Rates Today: September 25, 2026 \u2013 30-Year Rate Hits One-Year High",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OUVVkSWRFSFdBUUJfeG1SUmV4ODUwWm8xaml5ZGJpeHZIeWJsb0d4cHp6TkNtN01TZE5Ebl9NenpMNVBzTEFxbi1ZNExUeDd1UUZkbkNwTGFTdDM4dXpoR1lFSGxBVzM2MjNRNGlVY3dpdlU?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-09-25",
    "preferred": true
   }
- ],
- "sample": true
+ ]
 }
