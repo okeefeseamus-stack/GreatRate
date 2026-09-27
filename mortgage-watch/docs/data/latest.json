@@ -1,0 +1,126 @@
+{
+ "title": "15-Year Rate Watch",
+ "updated_at": "2026-09-20T11:05-04:00",
+ "date": "2026-09-20",
+ "rate": 5.89,
+ "previous": 5.86,
+ "change": 0.03,
+ "averaged_count": 3,
+ "sources": [
+  {
+   "id": "optimal_blue",
+   "name": "Optimal Blue (FRED)",
+   "url": "https://fred.stlouisfed.org/series/OBMMIC15YF",
+   "note": "Actual locked rates, prior business day",
+   "in_average": true,
+   "type": "fred",
+   "value": 5.86,
+   "as_of": "2026-09-18",
+   "error": null,
+   "excluded": false
+  },
+  {
+   "id": "mnd",
+   "name": "Mortgage News Daily",
+   "url": "https://www.mortgagenewsdaily.com/mortgage-rates/15-year-fixed",
+   "note": "Daily lender survey",
+   "in_average": true,
+   "type": "scrape",
+   "value": 5.84,
+   "as_of": "2026-09-20",
+   "error": null,
+   "excluded": false
+  },
+  {
+   "id": "tmr",
+   "name": "The Mortgage Reports",
+   "url": "https://themortgagereports.com/15-year-mortgage-rates",
+   "note": "Partner-network quotes",
+   "in_average": true,
+   "type": "scrape",
+   "value": 5.97,
+   "as_of": "2026-09-20",
+   "error": null,
+   "excluded": false
+  },
+  {
+   "id": "freddie",
+   "name": "Freddie Mac (weekly)",
+   "url": "https://www.freddiemac.com/pmms",
+   "note": "Weekly survey, Thursdays",
+   "in_average": false,
+   "type": "fred",
+   "value": 5.79,
+   "as_of": "2026-09-18",
+   "error": null,
+   "excluded": false
+  },
+  {
+   "id": "usnews",
+   "name": "U.S. News",
+   "url": "https://money.usnews.com/loans/rates/mortgages/15-year-mortgage",
+   "note": "Link only (site blocks automated reads)",
+   "in_average": false,
+   "type": "link",
+   "value": null,
+   "as_of": null,
+   "error": null,
+   "excluded": false
+  }
+ ],
+ "metrics": {
+  "high_6m": {
+   "value": 5.9,
+   "date": "2026-08-05"
+  },
+  "low_6m": {
+   "value": 5.07,
+   "date": "2026-05-21"
+  },
+  "rate_30y": {
+   "value": 6.52,
+   "date": "2026-09-18",
+   "series": "OBMMIC30YF",
+   "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
+  },
+  "treasury_10y": {
+   "value": 4.12,
+   "date": "2026-09-18",
+   "series": "DGS10",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  "median_home_price": {
+   "value": 412300.0,
+   "date": "2026-04-01",
+   "series": "MSPUS",
+   "url": "https://fred.stlouisfed.org/series/MSPUS"
+  },
+  "spread_30_15": {
+   "value": 0.63
+  }
+ },
+ "news": [
+  {
+   "title": "Mortgage rates slip to their lowest level since spring",
+   "url": "https://example.com/1",
+   "outlet": "CNBC",
+   "published": "2026-09-18",
+   "preferred": true
+  },
+  {
+   "title": "15-year refinance demand picks up as rates ease",
+   "url": "https://example.com/2",
+   "outlet": "Mortgage News Daily",
+   "published": "2026-09-17",
+   "preferred": true
+  },
+  {
+   "title": "What the Fed's September decision means for home loans",
+   "url": "https://example.com/3",
+   "outlet": "Reuters",
+   "published": "2026-09-17",
+   "preferred": true
+  }
+ ],
+ "sample": true
+}

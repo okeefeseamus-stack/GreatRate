@@ -1,0 +1,76 @@
+{
+  "title": "15-Year Rate Watch",
+
+  "alert": {
+    "enabled": true,
+    "below": 5.50,
+    "drop_bps": 15,
+    "cooldown_days": 7
+  },
+
+  "outlier_pts": 0.40,
+  "backfill_days": 730,
+
+  "sources": [
+    {
+      "id": "optimal_blue",
+      "name": "Optimal Blue (FRED)",
+      "type": "fred",
+      "series": "OBMMIC15YF",
+      "url": "https://fred.stlouisfed.org/series/OBMMIC15YF",
+      "in_average": true,
+      "note": "Actual locked rates, prior business day"
+    },
+    {
+      "id": "mnd",
+      "name": "Mortgage News Daily",
+      "type": "scrape",
+      "parser": "mnd",
+      "url": "https://www.mortgagenewsdaily.com/mortgage-rates/15-year-fixed",
+      "in_average": true,
+      "note": "Daily lender survey"
+    },
+    {
+      "id": "tmr",
+      "name": "The Mortgage Reports",
+      "type": "scrape",
+      "parser": "tmr",
+      "url": "https://themortgagereports.com/15-year-mortgage-rates",
+      "in_average": true,
+      "note": "Partner-network quotes"
+    },
+    {
+      "id": "freddie",
+      "name": "Freddie Mac (weekly)",
+      "type": "fred",
+      "series": "MORTGAGE15US",
+      "url": "https://www.freddiemac.com/pmms",
+      "in_average": false,
+      "note": "Weekly survey, Thursdays"
+    },
+    {
+      "id": "usnews",
+      "name": "U.S. News",
+      "type": "link",
+      "url": "https://money.usnews.com/loans/rates/mortgages/15-year-mortgage",
+      "in_average": false,
+      "note": "Link only (site blocks automated reads)"
+    }
+  ],
+
+  "metrics": {
+    "rate_30y": "OBMMIC30YF",
+    "treasury_10y": "DGS10",
+    "median_home_price": "MSPUS"
+  },
+
+  "news": {
+    "query": "\"15-year\" mortgage rates when:4d",
+    "max_items": 4,
+    "preferred_outlets": [
+      "Mortgage News Daily", "CNBC", "Reuters", "Bloomberg", "The Wall Street Journal",
+      "Associated Press", "AP News", "Fox Business", "Yahoo Finance", "CNN", "The Mortgage Reports",
+      "Freddie Mac", "Fortune", "Forbes", "USA Today", "HousingWire", "NerdWallet", "Bankrate"
+    ]
+  }
+}
