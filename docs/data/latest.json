@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-09-27T10:30-04:00",
- "date": "2026-09-27",
- "rate": 6.54,
- "previous": 6.52,
- "change": 0.02,
+ "updated_at": "2026-09-28T16:07-04:00",
+ "date": "2026-09-28",
+ "rate": 6.59,
+ "previous": 6.54,
+ "change": 0.05,
  "averaged_count": 2,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.524,
-   "as_of": "2026-09-24",
+   "value": 6.573,
+   "as_of": "2026-09-25",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 7.1,
-   "as_of": "2026-09-27",
+   "value": 7.12,
+   "as_of": "2026-09-28",
    "error": null,
    "excluded": true
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.551,
-   "as_of": "2026-09-27",
+   "value": 6.604,
+   "as_of": "2026-09-28",
    "error": null,
    "excluded": false
   },
@@ -70,16 +70,16 @@
  ],
  "metrics": {
   "high_6m": {
-   "value": 6.54,
-   "date": "2026-09-21"
+   "value": 6.59,
+   "date": "2026-09-28"
   },
   "low_6m": {
    "value": 5.45,
    "date": "2026-04-20"
   },
   "rate_30y": {
-   "value": 7.244,
-   "date": "2026-09-24",
+   "value": 7.225,
+   "date": "2026-09-25",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
@@ -96,36 +96,36 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.7
+   "value": 0.63
   }
  },
  "news": [
   {
-   "title": "Mortgage and refinance interest rates today, Sunday, September 27, 2026: Fixed mortgage rates moved higher again compared to last week",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNcTRrUXB0cVpBSmZYNFN3SEpLVmRIRmt1Q0ZGRXNlV05CSFFYelhzQXRhM04tU1lJb3VjeXduSUUyaE4tUXV2a0Jwdk4yRDN1bllZdUVOUS1aaGNmb3BJcjQ0Sm9tSW1xekdiYzNrb2Zic3JaMHl3eGs1Rl9FR3dlVmlQemlra1I1aWV4M09lc285cldoand4YVlFdEl6Ml9xdHJTVnVaVHYwSWpaekNyX3NvZEhWTkhCZi13V1ZqMzIzZnBFVEQ1SFBJZGlfMmhYc1pnSmFYYjhteG1ic0hKN0pKTEZIa1BVTHc3TzRTdFZWNzFpSVAtUFRkUDFDUEZ1RERmby1jOTlkRUhld3I1UTVrVzZrdlRTeUdOUmplekZrcWlLYm1ZVk43b3FpMTQ?oc=5",
-   "outlet": "Yahoo Finance",
-   "published": "2026-09-27",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance interest rates today, Saturday, September 26, 2026: Mortgage rates keep rising into the weekend",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNY3FRRjJESGducldTZHlQcTlWNTZKTEVfT0VkZ3ZjWFJNclM4UUh6UjNhekxBVHJEMExaWFNPNTFPX094VmNZZVNHcTM2bGpDMmVWSFZsWXRIVElackNpWmIxVUZDOUxuZGtNUlR5ZU1PNXA3S0g4ODhSTU53cXozeGEydXBXbURxdTBXdHo0TXRSMExUT2hYMEpXRUZzc3JpOGlZNTZBMUp6ZFZLaHQ0a0ZoRVVaRC1hRy1TVkRPaXFxcVdQcHI1RVloWWlaRjZJZ2l2SnRZVGRZLUZFd3A4Qm9CSUhWemRNRmc5elNzd20yZTh6VWlUZVV6TE5DeDNSbmZWelJYRE9vOXBmaVNXV25mc0QyMHBRWHc?oc=5",
-   "outlet": "Yahoo Finance",
-   "published": "2026-09-26",
-   "preferred": true
-  },
-  {
-   "title": "Current Rhode Island Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01R1dpdERIbHM3TkZQaTFMRlV4cVhLTXBCajJoa2FCNnROMDBHNXprWWRvWkF5eXQ3V2M4TEViYVp6ZjhCTkFuNm1hc3pILUgtVEYwa3NBZjhZbVItaFhoYXBTY1lsUmFkck1jdWpkYkRwaTRVM25B?oc=5",
+   "title": "Compare Today\u2019s Mortgage Rates",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
    "outlet": "Forbes",
-   "published": "2026-09-25",
+   "published": "2026-09-28",
    "preferred": true
   },
   {
-   "title": "Current Nebraska Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRndhYXVOMWN6V2lIMW5KN3FDRFlYNzZQMXNsWWxWRGpZbkxnWWNFLXlMaWlNWTJnRUxxVGFseGJZWjBNM3VtcUU4ZDBSMFhOOWF3SUgybm1JMnFMT2N5SS1EZWQ3OC1acGNTUHdueW1OUQ?oc=5",
+   "title": "Mortgage rates today, Sept. 28, 2026: Rates still inching upward",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRcVh5TllfZWd2VGFTUXlPTFpWYmg3QmU3dEFFdlNjX01DTzFEOFNkdWdLVlJZaGJObUNSSkh4V3lMbVF1UUFBR01Lb1diNGJFbFlLazE4bC1VT0FKUDRnQV9vRUl5Y3pTSmdveEo3bw?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-09-28",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage and refinance interest rates today, Monday, September 28, 2026: Refinance rates still lower than purchase rates",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPN2VaWURRMGFQY1RkZlFiQnA3NUtDUUEzajlmOTh1bXN1RmlSWE5UcGdDOUlXcnpLbFo4MU1zOVlRbXV3S1JmVGRTMXNfWWRYRnVLTWlSR2I0QURkVW9XWGJZaGtYaHhIb3VnRjUyRGFFX3NCV1gwWEtoQ2lOZlRRWDV0aTZPdnZ6VjZVSGNncHR6LXpiMWwzWWdRN2NDa0xNX19FcDVQWF9BTFBBLWRGUnczdG5tX2lFazlEeDl5UUk4cVMtSjNsSE5RMng3UEFVUG5hN1JaN2NGcU5QUnV3NmtkOElkcGVVa1FqeFVyMWJWWkFkSTFsczVoVlRaWnctaGF4YURfT1NBOVVaaG1Nb3NyRzZ4eEMxRzRDMA?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "2026-09-28",
+   "preferred": true
+  },
+  {
+   "title": "Current Florida Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
    "outlet": "Forbes",
-   "published": "2026-09-25",
+   "published": "2026-09-28",
    "preferred": true
   }
  ]
