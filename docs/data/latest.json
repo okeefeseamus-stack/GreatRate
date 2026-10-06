@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-10-05T17:11-04:00",
- "date": "2026-10-05",
- "rate": 6.72,
- "previous": 6.85,
- "change": -0.13,
+ "updated_at": "2026-10-06T14:54-04:00",
+ "date": "2026-10-06",
+ "rate": 6.79,
+ "previous": 6.72,
+ "change": 0.07,
  "averaged_count": 2,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.653,
-   "as_of": "2026-10-02",
+   "value": 6.796,
+   "as_of": "2026-10-05",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 7.23,
-   "as_of": "2026-10-05",
+   "value": 7.22,
+   "as_of": "2026-10-06",
    "error": null,
    "excluded": true
   },
@@ -39,7 +39,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 6.782,
-   "as_of": "2026-10-05",
+   "as_of": "2026-10-06",
    "error": null,
    "excluded": false
   },
@@ -78,8 +78,8 @@
    "date": "2026-04-20"
   },
   "rate_30y": {
-   "value": 7.379,
-   "date": "2026-10-02",
+   "value": 7.458,
+   "date": "2026-10-05",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.66
+   "value": 0.67
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-05",
+   "published": "2026-10-06",
    "preferred": true
   },
   {
-   "title": "Mortgage and refinance interest rates today, Monday, October 5, 2026: Refinance rates stay mostly lower than purchase rates",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdkNLU0VublJrUlV0SGUwNEVPb19zMW1ZWmVrdmRWN18xVm1UMWZyRTlJMEZzdHJURlkwRkF4ZzN5WHE2YWFzdllRWTNNa3JYWVpBVnRMekxLNG5zajZLMnF0VTBJTTU4VzVJNVFCN1JTemFtaGJ3c3RDd1pHdzZvQ05QX0JXLVhCNlJhSmNYUDQwTEJFUGMwQmEzeDc0ZHVJRGtLZS11bjY2elp2RW1FZVEyZXZoQ1hzVlpocHA4am9RM3Yta3BqbHJEMUN0T3pPNjhDRjRWU0xXR3FuWjE3aUp1ZWxQSk5PdFc3Uk81MFhyVkZZdG94alRZa3ZzM1VTTEJzTl9iWElJdXpaenVFUklyaWI?oc=5",
+   "title": "Mortgage and refinance rates today, Tuesday, October 6, 2026: Mortgage rates mixed as fewer expect higher rates in October",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORnJNVGx3TV9Ed1JYU3c2WmpXMXYzY0VGRDNiZ1lDWi11V21Yb0JmR1hPWWswZjFySE15c0FQZjJTSHdJN2JyUnMyQnA3cktXS1YzQ1A2cXB5ZDBqZ3BFb3d2bnR4Z3o0dU55czJxaHVZeVU0VEJJSFg1ZGJEZ21Eemg0d1JfbV9Tb09GNkpWMjlmRTVRS2Z2NTRvc2ZsNHFwRmJmWUxHMVZGMUZzNkVpNmZUMkw4X3hXNDBmWGJrQ2Y3VzBGb0UtLUd1NzNBNXZXWHVnZUp1RExfMllZd0lzNjZKcVpKbktZVUExMHkyN1puSENOMkR3VE1Tc3h1anhYT0otZlpNc0FzOE1vWGJVeXVZd3dzNEZJTFpLMzhvaw?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-10-05",
+   "published": "2026-10-06",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Oct. 5, 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JUlc2MHd0Y25YOUgtUDROUUZqVVFHLTdyZG91TWsyWDVublJsZ1djQkZPYU5iZ0dwWEp4SlhvNHlPcUtKdXh0YXZjQ3pqeFprTnZkY1pxVjlHV1JMcUQxak96NDk0UnlQTDhxd3M4NA?oc=5",
+   "title": "Mortgage rates today, Oct. 6, 2026: Rates spike upward",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bUdBb3QtdXFxYXVsRTNXeUg4UnJ3ZU1PM0JZNGN6dXd0MV82azdSMTBaLTZUdEV3TGFUcVAzMTVSRkFfdk8yWDBTUFZOd1Nzc180ajFYQUpaYW9EdEhXTTRVMHBfMjNaOXJHQm9Ebw?oc=5",
    "outlet": "Fortune",
-   "published": "2026-10-05",
+   "published": "2026-10-06",
    "preferred": true
   },
   {
-   "title": "Current Florida Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
+   "title": "Current 15-Year Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3JlTlVuamZmTUN0MmtaN1h3UUVOWmNaNnZub2R4NmFOb1d1ZkNCTTF1bV9vd0k1YUduaC1FRWlUWWxnaFRDNVkyUGQ4UnZMdk1ROGlwcGdsOFlyTHF0dWdHempIRkg2R0RsTEdYLUVtVU55ZFhXMi1VZ1hHMU5UUi0xZlpqaEJPZGh0bQ?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-05",
+   "published": "2026-10-06",
    "preferred": true
   }
  ]
