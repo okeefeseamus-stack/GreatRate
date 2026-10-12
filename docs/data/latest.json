@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-10-09T14:48-04:00",
- "date": "2026-10-09",
+ "updated_at": "2026-10-12T17:44-04:00",
+ "date": "2026-10-12",
  "rate": 6.91,
- "previous": 6.93,
- "change": -0.02,
+ "previous": 6.91,
+ "change": 0.0,
  "averaged_count": 3,
  "sources": [
   {
@@ -27,7 +27,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 7.15,
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.84,
-   "as_of": "2026-10-09",
+   "value": 6.838,
+   "as_of": "2026-10-12",
    "error": null,
    "excluded": false
   },
@@ -84,8 +84,8 @@
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 5.28,
-   "date": "2026-10-07",
+   "value": 5.22,
+   "date": "2026-10-08",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -101,31 +101,31 @@
  },
  "news": [
   {
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-10-12",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage rates Monday, Oct. 12, 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MUGFLaC0wMjJnNXdQVzZlenZFa2NlUEM5QlNJeGVDRkZzdHNHb2tGTEo2Rkg0bVVkRGJfaDRnRWE1YkxSdHBfTWVZa2VtX2xyZjFRRGJxaExublJhdVE0aEhnSHNDTUhQM0t6V25aMA?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-10-12",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage and refinance interest rates today, Monday, October 12, 2026: Fixed refi rates remain lower than purchase rates",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTndscm5BUlVHLXIxODJaa2oxOXBDRmo4VF96eXozc2ptT1BWVTV6M09fQTluSmVlaXctMWtOQm5vdHR4UjJ4V0laWk5jYkxwOVNkZF9SeTFKb1Z6WV9tUWFMM1NfSEV2a1p6azFFczFFM2hueUY5T1hCSTdWdkkteGFzRzNzZU5OYWlMYnlxWWgwRWpIRVRoNm53eW9TLU1ySWJOT3RJWVVzQVFSdTltR2xSVXhEaUxLNENfTlNPZms4X1ltMUJTTElweFhCTm9qaElkdHBDM2R1TjROVEduQ3cxYzh3a21BWHMwLWVqWGN6dzZaNDFmSmR2czA5cmVTUWpYbFZNVWN4V1ZzdFh2UVJab05xMV9LVWcwXw?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "2026-10-12",
+   "preferred": true
+  },
+  {
    "title": "Current New York Mortgage And Refinance Rates",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLW83dVNhdGxxUkZhZ25RS3RtN0tFSkw0RWhScmVlLUQxMFdsQnRhMDlkcjRQaXJMa3duS0FhUzZhbFh2cmx1UVFoS1o2MjFQQXRwSThUaEZhZklIQ3I5WmJzXzRmV1FzYXNUdG8tS191Zw?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-09",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance interest rates today, Friday, October 9, 2026: Mortgage rates fall, taking back some of yesterday's surge",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZERNQmpBOVdkcjdLdXlvb1NRY3dEclJER0NGRkJhUmhnbldraWE3eGItSjlJbnRxTDZXVENMQTlXeUlWSGp5VFFvMUxROEcyNXNpQmU5dnlZbHhISGJocnQ1RVBDOUFZZGFjeS01UnpBbjEwVTY3WXBKa2dqQTRoZmFVOW50RmE5QTRpUlYzeldtQnV0N0Y1ZG5YWlI5d0haNkRsNGFIOUpPQ0RqSzNzNkhZRWxWNGtLNGllWXdEU1hKbFRVSEJvWHE3cmhsNmR3ZTlWcjV2aS1QY0plbFh0VXNYZkoyYktzQ296eFp1SWJoUFhLaEY5QVFfU2h3cG5zRkgzaV9wQlpmZFljWWVvQ21lMWRaSlFVaTVldktKSXl2U2p4?oc=5",
-   "outlet": "Yahoo Finance",
-   "published": "2026-10-09",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage rates today, Oct. 9, 2026: Slight tick down for some loan types",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSGRnLVNzYzIzWFdoeHg0RTM5VExqYVRXdVQ5OWMyVnVIazlRcWk5VkJoVUI5aHpxc3ROQWJOMlpFbG5hNzhCYWlrQW0yYVlIckliZVpleEhtNVQ2VUt0dFgtUEdFVTU4Um5USDFMNA?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-10-09",
-   "preferred": true
-  },
-  {
-   "title": "Current Virginia Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMndlMWxjMUt1ZXFaVms0dndmR1c2b0dNTEZxRGpXMVh6YjhpVGFXSFhsYmFMZWJGVmNPQUN1Q2lZMmp4S2J4UkdkTkFuNWpDODNKYWxERWVwSlJsRDB3Xy1HLWpUVEc2bkpNcWo0QjRBUQ?oc=5",
-   "outlet": "Forbes",
-   "published": "2026-10-09",
+   "published": "2026-10-12",
    "preferred": true
   }
  ]
