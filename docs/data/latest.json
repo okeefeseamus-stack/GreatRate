@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-10-14T14:00-04:00",
- "date": "2026-10-14",
- "rate": 6.92,
- "previous": 6.86,
- "change": 0.06,
+ "updated_at": "2026-10-15T13:46-04:00",
+ "date": "2026-10-15",
+ "rate": 6.86,
+ "previous": 6.92,
+ "change": -0.06,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.722,
-   "as_of": "2026-10-13",
+   "value": 6.807,
+   "as_of": "2026-10-14",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 7.18,
-   "as_of": "2026-10-14",
+   "value": 6.98,
+   "as_of": "2026-10-15",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.844,
-   "as_of": "2026-10-14",
+   "value": 6.804,
+   "as_of": "2026-10-15",
    "error": null,
    "excluded": false
   },
@@ -50,8 +50,8 @@
    "note": "Weekly survey, Thursdays",
    "in_average": false,
    "type": "fred",
-   "value": 6.73,
-   "as_of": "2026-10-08",
+   "value": 6.71,
+   "as_of": "2026-10-15",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-04-20"
   },
   "rate_30y": {
-   "value": 7.361,
-   "date": "2026-10-13",
+   "value": 7.378,
+   "date": "2026-10-14",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 5.24,
-   "date": "2026-10-09",
+   "value": 5.21,
+   "date": "2026-10-13",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.44
+   "value": 0.52
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-14",
+   "published": "2026-10-15",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Oct. 14, 2026: Rates tick down a little",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pYjVwNTFnQlNscm9DeVBJdWFGVHZDd1ZxaXZ4b1ktRUlsc3l1MWh2NktfNDctdllMMTZDckdidDRsblhMNVNnbWJaMkxxbGM5U3J2Y00yc0p0ZHZhXzl3TnpNNmFDYmpYUmlWZlFUdw?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-10-14",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance rates today, Wednesday, October 14, 2026: Mortgage rates mixed as gas prices remain elevated",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS2tiVU5lTWNTNUVxb2xYemdCbmh4b3hqbkJFbk1ncUZXZDZJdWNWa1hVVThJcTlUeGc4Ym9rcERjWWFiLTFXLWN2Q3p5R21uTjcxZnBuNFR6LXNoRTc5ZVJETE1MemVLWnB5U0xRTEJVQVdpY3o5Wk5xN1B6SlJJRHliSU1QNGdwbVNwbDVoajAwZDFQYlNVM0J0YlJQZXlkVFJGMHBsd2FZVUtTdjA1RVdsTzdMSDltaTB6eGtOQVZURm1pNEJRUkF2WWVQYmtfVzJ6dHMxeTJ5dlA5WXA0TXJ5TXg4RjBCdHduZTNNczVqbHUxc3k2MXk1bDlFQUJUNVRZM1Q3d3p5Sk9ad0FJOFpheVd3dw?oc=5",
+   "title": "Mortgage rates held steady this week at 7.4%: Mortgage and refinance interest rates today, Thursday, October 15, 2026",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYWpVemRtc0ZWUjhPR2N6S2UxRlZrZlVFekJFNkt2QXRBQ2JRTzFKQTYwN3RVTmRlbk42VXVPTHZ4MjdkOFFsNVphRjFmUWdEVE1oeUVDX1dVdWtDS0VEQ0NJYkc2M1c3UlhXOEpnaEVKY001amZLQnFvclJ3bHE5RC1SN1NaSHZxM3lSZDVvRlhqdzh4SEZqNC1lYWpabW5xUXRYUHVzaXFBY29tclBXZ3RlVVpTZ0RNcF9aNUk3a0hXRUZkeDhPNzBtLVZ6R0cxMFpUb2tRQ3dRSXdCWEJTRFZ4bTAzUk0ydjJ0TXM1U1ZjTlJ4U05hWEhia1JhTV9SWHg1am1vLTAwT1VWdVgzS3kwMjlWQQ?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-10-14",
+   "published": "2026-10-15",
    "preferred": true
   },
   {
-   "title": "Current New York Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLW83dVNhdGxxUkZhZ25RS3RtN0tFSkw0RWhScmVlLUQxMFdsQnRhMDlkcjRQaXJMa3duS0FhUzZhbFh2cmx1UVFoS1o2MjFQQXRwSThUaEZhZklIQ3I5WmJzXzRmV1FzYXNUdG8tS191Zw?oc=5",
-   "outlet": "Forbes",
-   "published": "2026-10-14",
+   "title": "Mortgage rates Thursday, Oct. 15, 2026",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41WC1fNzlkaVVNRzFqY0JSNWRhT1kzbHJBcG9UTHZfRG1rbzVISmhHSVRXUndNZzR3SEpNZ1FsWDcxTWxPczNvdmI1dTN3ZlE4Tl9sRmNLY3FCSlQzSGpaUGM0ajVlaWRpTzUxdFJ3?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-10-15",
+   "preferred": true
+  },
+  {
+   "title": "Holding firm after a 7-week rise: When will mortgage rates go down?",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmlhVWlNS0h5dWV0eEd2M0hkR1ZFQ1NKcml6NHNtaERxUXhWZTNzdEltY1RqZ19QWnZLWEFQcG4ySlhPZmg3UVBzcjFERzBxSEhwN3JKZWFJbFpjeVA5c1lsNVR2Q3dIc2hWUUplUnRQem5RT1FJakROT052TzVYTlFjRjhWLVFpTHBXaldTTGZWNWJXbnRkeWR5N0NNQjc5NWFMTTRfQjBHNldrc3NlYXA3N2ItRE1zbG5HZ05wcklFWmhIanVPX0N1SjQxX2N2MTgzYzlkS0s?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "2026-10-15",
    "preferred": true
   }
  ]
