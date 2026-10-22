@@ -1,3 +1,5 @@
 {
- "threshold": 5.5
+ "threshold": 5.5,
+ "last_alert_date": "2026-10-22",
+ "last_alert_rate": 6.77
 }
