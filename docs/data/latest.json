@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-10-28T14:51-04:00",
- "date": "2026-10-28",
- "rate": 6.79,
- "previous": 6.77,
- "change": 0.02,
+ "updated_at": "2026-10-29T14:57-04:00",
+ "date": "2026-10-29",
+ "rate": 6.74,
+ "previous": 6.79,
+ "change": -0.05,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.579,
-   "as_of": "2026-10-27",
+   "value": 6.565,
+   "as_of": "2026-10-28",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 7.0,
-   "as_of": "2026-10-28",
+   "value": 6.95,
+   "as_of": "2026-10-29",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.787,
-   "as_of": "2026-10-28",
+   "value": 6.717,
+   "as_of": "2026-10-29",
    "error": null,
    "excluded": false
   },
@@ -50,8 +50,8 @@
    "note": "Weekly survey, Thursdays",
    "in_average": false,
    "type": "fred",
-   "value": 6.68,
-   "as_of": "2026-10-22",
+   "value": 6.6,
+   "as_of": "2026-10-29",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-05-01"
   },
   "rate_30y": {
-   "value": 7.218,
-   "date": "2026-10-27",
+   "value": 7.22,
+   "date": "2026-10-28",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 5.0,
-   "date": "2026-10-26",
+   "value": 4.99,
+   "date": "2026-10-27",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,36 +96,36 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.43
+   "value": 0.48
   }
  },
  "news": [
   {
+   "title": "Mortgage rates today, Oct. 29, 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MYjYwQnNTYnZrdzF2aW5EYnV2OWpOc0QzMExuSU9NYVZVNm9mOXhhQTRkaU11YjNiMGFRTHNYUjVzNklWNzllc0FFME1FOFBsMzNHYkhMLUNJUVR1Z1ExNmZvR25hTTY5T3Y3NEN1bw?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-10-29",
+   "preferred": true
+  },
+  {
    "title": "Compare Today\u2019s Mortgage Rates",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-28",
+   "published": "2026-10-29",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Oct. 28, 2026: Rates remain stubborn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZN1ZiaWxyR3g4Njg3UVl5Mk5hbUVZZmNxSENydFM1bzVZUWJtQ0stQVdGWkJCYU1DdlhTSzFiQVpTZjdPREZyVHBpVGNXcnpUQmlKbjJNZDBGZG93S0tuVDJMY0JQR3RDMFkyTlVlaw?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-10-28",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
+   "title": "When will mortgage rates go down? Lower again this week as the Fed waits",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWjYwTXlfa1hvZmpzU2hQcy14aFJubXJWa2QxcDhvbUUta3o1ejlPWDB6dGdiNlYxOHRic1pwVmE2b1czWmY5eXBaZUI5QU41allQYXpaS2tYSEk2M0JlV3VoTWtfZU5HWUY2cTJiVVdFVVE3NUJXRmhEd0pKbTh2Rl9pZzUwNUZqdy1POEVpbGh5a2R6N1dmaFB6bjFmYkxKaEhjYkd4R0VrSDVCd001UFZheE5LN1hNQmNzY2I3QVQydURpZW5MaWxvQndzbmlnT0ZqS2xiSmdoeGFHbkh5Vw?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-10-28",
+   "published": "2026-10-29",
    "preferred": true
   },
   {
-   "title": "Current 10-Year Mortgage Rates",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VZHl4NjFLbnVkTUJuNWxlTENwanlVMi1OMGUyYjNyQWJvRGQwaXlULWk1MWxtUHBkVGR0Qy1vYldOSTlXbHh2SkQtM0c4RGZXNDJFY1pONDlnYmNyQUs4WUJmZi1CTTI5THdKeXpOX1VpUQ?oc=5",
+   "title": "Compare Today\u2019s Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ERXVoRmdrMnFCZHB0cDEwZlUwRDZCTmdQYUVURFplYm5SVFJyU25UbkItZXkwZnpDd1I5NVJKMGNxMnJaaHRpMHVtLWZwNGpIV213dWRTMnJXdVgyWEEtTmhhSVVKUWdQdmxBYUVMNHMxb25oNUE?oc=5",
    "outlet": "Forbes",
-   "published": "2026-10-28",
+   "published": "2026-10-29",
    "preferred": true
   }
  ]
