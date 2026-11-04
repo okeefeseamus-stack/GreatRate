@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-03T15:06-05:00",
- "date": "2026-11-03",
- "rate": 6.74,
- "previous": 6.7,
- "change": 0.04,
+ "updated_at": "2026-11-04T15:25-05:00",
+ "date": "2026-11-04",
+ "rate": 6.65,
+ "previous": 6.74,
+ "change": -0.09,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.575,
-   "as_of": "2026-11-02",
+   "value": 6.493,
+   "as_of": "2026-11-03",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 6.91,
-   "as_of": "2026-11-03",
+   "value": 6.85,
+   "as_of": "2026-11-04",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.723,
-   "as_of": "2026-11-03",
+   "value": 6.61,
+   "as_of": "2026-11-04",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-05-08"
   },
   "rate_30y": {
-   "value": 7.13,
-   "date": "2026-11-02",
+   "value": 7.174,
+   "date": "2026-11-03",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 4.94,
-   "date": "2026-10-30",
+   "value": 4.91,
+   "date": "2026-11-02",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.39
+   "value": 0.52
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Compare Today\u2019s Mortgage Rates",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-03",
+   "published": "2026-11-04",
    "preferred": true
   },
   {
-   "title": "Mortgage rates Tuesday, Nov. 3, 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMDk4bEpIUnNvMmtOeHFsLW9pT3lYTThycklLUWg0RkNXZ0RrZWlxV2dJZHJDbk1oSDh6QzlfZkh5bWVMVEVocHJXV0JwUDByQjAxZHhyaVlSQVlVcGFVdFV1WnFVdmR4TzI5cktvYw?oc=5",
+   "title": "Mortgage rates today, Nov. 4, 2026: Rates on many loan types tick slightly up",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50OUNKb05BVWxRTjJDUHFNRWwtUDJSOVNjenR0T2h1QmU4eHZWLXRhTk9KTGdwQlZ5Y1pjaEJvM1ZYM1pOcmJsVXZWVDQ0alNXOW4xV1Rsbnc2VHpDbXFEbWlCeDJMck9ybkNuNlRMNA?oc=5",
    "outlet": "Fortune",
-   "published": "2026-11-03",
+   "published": "2026-11-04",
    "preferred": true
   },
   {
-   "title": "Mortgage and refinance interest rates today, Tuesday, November 3, 2026: Mortgage rates continue to move lower ahead of election day",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVUw2NlRfQlBUQzhFekRfRXA3d0xZLWtzdTFoUGgzb0RZX0dsWGc5NWl2bFBfNGdkZUlrSktIei1wcUstUks1bl9rcTBLQXI2RFY4OGNMdXNieV9IRjc5amJUR0llZ1R3SnpsOHNYTjN4cVpfRHVST0UzM1J2U2E3R1M5dmNxNHh1UUg0QXVHQ1dCZUkwZGc4RDBxcmxhdmpPZUJ4QXVsaXlkLWtfTEJVOG5OZnN6MjVsTDk5VmZsaFRWMkNEUm8tUEZTMWlZc0VIS21qNmFqUjIyNnlFR2Z5WldxVmNSYkExTW1ienB3RTJoUEEwSDRYR0NURGdKSzVXOWZQbVFndXdDTi1lTmJ2VzFVbERKb0hUakNBaGN3WHdYeWo2Z3lmMGR5Yw?oc=5",
+   "title": "Mortgage and refinance rates today, Wednesday, November 4, 2026: Mortgage rates still lower than last week",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdG1YNDVITHZycFgtaHpnbVhLVWFZdVJSUmZGZWpXX1FmbjZHZjNaMHBUM3piNVpJem5OZjZCS0Ffa2h3N2kyWWJwSzFuZmVpVjFXVHgyZmlTTDdZZERieXhQcTdQT3hseUFoN0doaVJwOHdQbXd6Q1IybktxU3pCcGdOQ0RocENnanNWemJCdnhPRTN1Z2lnSnFtQXI0WkxEWkRZYXdwM3RjaldvdmpiVFlWQmxSV1p0cnlLUS0zTTdLVGUybXUzWGRXWHdsTVdhUWNBdjlOa3RqaEtyUUg0LUlrazVMR2xJQWdCSE1KZUVEcmI4SzNFUi14YlJOTFBuNm1Send6T3phZw?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-11-03",
+   "published": "2026-11-04",
    "preferred": true
   },
   {
-   "title": "Current Minnesota Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5udFc1REphM3p3YnBUYUd2SG55Q1NtbWZkTU8zMWt4a0JiWFJKOXNJcExMdGJTNnRvV3YxSU9HWTJRYU5QZTRjbEVxTDRLNFJqX1Y1MWp3LWlDa01IVS1pQ0xFUzI0eFM3eGM2Ml8ybThFSlU?oc=5",
+   "title": "Current Florida Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-03",
+   "published": "2026-11-04",
    "preferred": true
   }
  ]
