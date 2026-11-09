@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-06T14:56-05:00",
- "date": "2026-11-06",
+ "updated_at": "2026-11-09T17:58-05:00",
+ "date": "2026-11-09",
  "rate": 6.61,
- "previous": 6.66,
- "change": -0.05,
+ "previous": 6.61,
+ "change": 0.0,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.407,
-   "as_of": "2026-11-05",
+   "value": 6.397,
+   "as_of": "2026-11-06",
    "error": null,
    "excluded": false
   },
@@ -27,7 +27,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 6.83,
-   "as_of": "2026-11-06",
+   "as_of": "2026-11-09",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.6,
-   "as_of": "2026-11-06",
+   "value": 6.601,
+   "as_of": "2026-11-09",
    "error": null,
    "excluded": false
   },
@@ -74,18 +74,18 @@
    "date": "2026-10-08"
   },
   "low_6m": {
-   "value": 5.63,
-   "date": "2026-05-08"
+   "value": 5.66,
+   "date": "2026-05-13"
   },
   "rate_30y": {
-   "value": 7.089,
-   "date": "2026-11-05",
+   "value": 7.087,
+   "date": "2026-11-06",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 4.9,
-   "date": "2026-11-04",
+   "value": 4.86,
+   "date": "2026-11-06",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -101,31 +101,31 @@
  },
  "news": [
   {
-   "title": "Mortgage Rate History: 1970s To 2026",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XMWNxSHJrSVpZUFdhcm1SN0FKbkpaYTR3V195dS1rTWhQY0dCWEhDT1ZlYkNlMi13aG5BdXpEN200UmhsRDZ2WDg1dEZyLTE3YjZuYi1HeWxSV0lvUkswbEM1bXRhN3dCeTBvU1Vn?oc=5",
-   "outlet": "Bankrate",
-   "published": "2026-11-06",
-   "preferred": true
-  },
-  {
-   "title": "Current Florida Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-06",
+   "published": "2026-11-09",
    "preferred": true
   },
   {
-   "title": "Mortgage and refinance interest rates today, Friday, November 6, 2026: 30-year rates drop below 7% for the first time since September",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTVczX3UzbHNINTE4NHl2Vi1HUVdodk1mY3R2VnJhdkJmYWxjbURyalk0TF83eDRLSVMzSGJEb0l0bC1ZZ1poMXdtRzI3eGtNUHEtTFhpSDJkYnA4T3E4YUFoUjd2dDBVTW1CZHpES3lLQlRzWXVZTFBIaWtXYlZTVlR0QmZwU01LZnppZXY4MnI5V2Jwc1NiV19aTGRBV19rLUF4VkNSaS13WGV5cTZyakJpenpQZF9ISGpuazF4MDVLS21NU1R5MEQyX0s3eWo3cXgwMl9JdTREbGdkUWowOEU1c0xydU44MDllOHhZSnJYT3RHaGtvZnQyUkM5NUhSZWljdkdVWml2dFpMSG1XVXlubWo1NnJiNWdBNnBRUy1OREpoQnZSMjZ2WGw?oc=5",
-   "outlet": "Yahoo Finance",
-   "published": "2026-11-06",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage rates today, Nov. 6, 2026: Rates dip again",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmX3JJaFRRdGN2WlhPdVJMaEFvVDJmUk05STZxMmJRZDBNTTR4Sk9WamR5QVM2TGdPSG5QSlRoSS1qY2pWZGlyYlVCcHF0OUhMOTJ3TGZObUlfSXMtbHBCc1A1NjlfMzNYcXNFQ3ZQcw?oc=5",
+   "title": "Mortgage rates today, Nov. 9, 2026, rates move down again",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uNHM2VzdSOEZ5RzhGVGptekhqdF9GYmtDZHo2aFNPdmJqOEx5RjRGMnRQTGtyaTVOeXZhejBpcmttd1ZMLVZnWXNFeVJSN3RrdUNYMzc4ak5LeVU4OXQxRmJ2V1hIbW91OG9FNUctcw?oc=5",
    "outlet": "Fortune",
-   "published": "2026-11-06",
+   "published": "2026-11-09",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage and refinance interest rates today, Monday, November 9, 2026: Fixed purchase rates lower than refinance rates",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPc2hiUDEzVUFFNV84cWJ4RjA5bFp0SWhFbWFzcXc2QnVTZ2Zaai1tcERGclFfRjhUNmp6ZGVodnhNeWMtdTZHc0dpbEkzcTJLNVdhd0tkRWV2NWE0ZXBTNmZUeUNfb29nZUUzSndGZzN4YnJ2QkJLLUxjemhENDFjSVY2Y21BYTIzaEYyNXJnRloySHBVWENldW9ZX2RzbkFaZ2V1STRRQXpnMEx6OUdQVUdpNzhHNGN5XzV5bkItV2dwSF92MDV3Ymc1eVhqdEV2bHktRDlhZ3N4Nnp1endJRGtKcHJ3RUsxWFR3OEFzaXpMbWljS29pRmZHWkZzblRFRURtYVk0RFQwa2U4Sk9mbWFBNGpCTkRHb0E?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "2026-11-09",
+   "preferred": true
+  },
+  {
+   "title": "Compare Today\u2019s Mortgage Rates",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-11-09",
    "preferred": true
   }
  ]
