@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-18T16:25-05:00",
- "date": "2026-11-18",
- "rate": 6.74,
- "previous": 6.8,
- "change": -0.06,
+ "updated_at": "2026-11-19T16:31-05:00",
+ "date": "2026-11-19",
+ "rate": 6.78,
+ "previous": 6.74,
+ "change": 0.04,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.512,
-   "as_of": "2026-11-17",
+   "value": 6.671,
+   "as_of": "2026-11-18",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 6.98,
-   "as_of": "2026-11-18",
+   "value": 6.99,
+   "as_of": "2026-11-19",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.732,
-   "as_of": "2026-11-18",
+   "value": 6.692,
+   "as_of": "2026-11-19",
    "error": null,
    "excluded": false
   },
@@ -50,8 +50,8 @@
    "note": "Weekly survey, Thursdays",
    "in_average": false,
    "type": "fred",
-   "value": 6.45,
-   "as_of": "2026-11-12",
+   "value": 6.66,
+   "as_of": "2026-11-19",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-07-01"
   },
   "rate_30y": {
-   "value": 7.286,
-   "date": "2026-11-17",
+   "value": 7.258,
+   "date": "2026-11-18",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 5.1,
-   "date": "2026-11-17",
+   "value": 5.07,
+   "date": "2026-11-18",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,37 +96,8 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.55
+   "value": 0.48
   }
  },
- "news": [
-  {
-   "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
-   "outlet": "NerdWallet",
-   "published": "2026-11-18",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
-   "outlet": "Forbes",
-   "published": "2026-11-18",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage rates today, Nov. 18, 2026: Little change",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HbzBHNjhZcFVDMVNLcTdCbU4xSWszNk5KblRDeklRTk01WVRzbGJEanFSdmRRTmVTTUZ0RkQxQjh6X0JlYWZtOEszbldjcjhmX1lJZTZROUVOSlNYVTNIczMtOF8wdXJnMHoySjQybw?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-11-18",
-   "preferred": true
-  },
-  {
-   "title": "Current Florida Mortgage And Refinance Rates",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
-   "outlet": "Forbes",
-   "published": "2026-11-18",
-   "preferred": true
-  }
- ]
+ "news": []
 }
