@@ -1,7 +1,7 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-20T16:04-05:00",
- "date": "2026-11-20",
+ "updated_at": "2026-11-23T19:49-05:00",
+ "date": "2026-11-23",
  "rate": 6.78,
  "previous": 6.78,
  "change": 0.0,
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.694,
-   "as_of": "2026-11-19",
+   "value": 6.704,
+   "as_of": "2026-11-20",
    "error": null,
    "excluded": false
   },
@@ -27,7 +27,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 6.89,
-   "as_of": "2026-11-20",
+   "as_of": "2026-11-23",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.76,
-   "as_of": "2026-11-20",
+   "value": 6.746,
+   "as_of": "2026-11-23",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-07-01"
   },
   "rate_30y": {
-   "value": 7.287,
-   "date": "2026-11-19",
+   "value": 7.205,
+   "date": "2026-11-20",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 5.07,
-   "date": "2026-11-18",
+   "value": 4.92,
+   "date": "2026-11-20",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.51
+   "value": 0.42
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
    "outlet": "NerdWallet",
-   "published": "2026-11-20",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance interest rates today, Friday, November 20, 2026: Mortgage rates mixed leading up to the weekend",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWVlpX2NDX3FRdzllb1AyZW84eFlEZE5nV3VVSkNYWlJEVHhUM2k2dko3eGJnZUh4eTQ4S1daZG05YjRER3ZoN3JwcU53TVYyQzhhM2VKUkhfcXY4Q1lyWEFPRXc5OVdpNzVFT3kwYVVIcHEzNGQtZ29YZ1VCZWtfTlVNNXZoVE0wQzF0NGpaR1ViU0NZVGFEMXMzU3Q4Nkg5U0d4YnE3ZE5wQ1VodFZTYVhHekNLYnQ2ZkxuaGwzTjF6emhuRzkwQzB1TnE2aUkwQURhbEV0RFNiRTlVLU4wTl96ZXNMb3ZMRzVKTllxLVRDUHRiTmtfSEMtbXlBQXVNcWZRS2dsMy1haXRKNWY5T3JYZHdoOVZQRGc?oc=5",
-   "outlet": "Yahoo Finance",
-   "published": "2026-11-20",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage rates today, Nov. 20, 2026, rates drop again",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RaU5kaGo0WW83b2hNVzBVVjNRbnlTclZEdjVEU1ZDUFVKUWk1V011a3NRN21VWlRrVjZsTldyRFNnY2dpREF5dHlnN1kzVC1qS0pfQmFNb1UzY2xMeGRNcjBoYnJObFlyUzRMUThsUQ?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-11-20",
+   "published": "2026-11-23",
    "preferred": true
   },
   {
    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-19",
+   "published": "2026-11-23",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage rates today, Nov. 23, 2026: Rates dip",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIakJnWHB4NFFmaDNmYjB1MmhKMk8ycG9jOXF6OWZYTnhGdjRZRUdKSDRabFBBNHMtb003YkhpRDZrcERDUmtQcmJiX0RkclBvR0tqNHMyUHdELUJrWWwxelF2VGRsMVF2aElLLW04UQ?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-11-23",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage and refinance interest rates today, Monday, November 23, 2026: Purchase mortgage rates lower than refinance rates",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQkZCQWRzZXVBTW9SRnd1YklkZWhXSlpxRTVhMTNyR3cwT2hEUGxYLXJFeEZyMElTeHNoODh0SWJBS0JmQk1QdEt3RE9ETmswV1JGby01c21GTllrd24zYkJ6TEhzcXota3N3SnYxcjBVY1ItTzlvX0dSWU01UHNGbkw0cWVlZDhXWHFVdlFKaE91S0tYVmRpMVFwNXBsX3p3ZExCWEhLY3R0YnZiNEJLT3lzOThlSEVzbHVocWlxSDB4R1VFX2FEajA3NXZXbTNDVEZIekI3OGVGRnFJYVRCUDE5amRpV2x0RFNPTko1Y2MyRG5nT1ZEemtEYllxZE9Rd3ZwZGd4VWlkb3FKblY3QmVsb3lFX1p3V2F1QlNsaw?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "2026-11-23",
    "preferred": true
   }
  ]
