@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-23T19:49-05:00",
- "date": "2026-11-23",
- "rate": 6.78,
+ "updated_at": "2026-11-24T18:00-05:00",
+ "date": "2026-11-24",
+ "rate": 6.73,
  "previous": 6.78,
- "change": 0.0,
+ "change": -0.05,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.704,
-   "as_of": "2026-11-20",
+   "value": 6.546,
+   "as_of": "2026-11-23",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 6.89,
-   "as_of": "2026-11-23",
+   "value": 6.87,
+   "as_of": "2026-11-24",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.746,
-   "as_of": "2026-11-23",
+   "value": 6.766,
+   "as_of": "2026-11-24",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-07-01"
   },
   "rate_30y": {
-   "value": 7.205,
-   "date": "2026-11-20",
+   "value": 7.171,
+   "date": "2026-11-23",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
    "value": 4.92,
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.42
+   "value": 0.44
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
    "outlet": "NerdWallet",
-   "published": "2026-11-23",
+   "published": "2026-11-24",
    "preferred": true
   },
   {
-   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "title": "Compare Today\u2019s Mortgage Rates",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-23",
+   "published": "2026-11-24",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Nov. 23, 2026: Rates dip",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIakJnWHB4NFFmaDNmYjB1MmhKMk8ycG9jOXF6OWZYTnhGdjRZRUdKSDRabFBBNHMtb003YkhpRDZrcERDUmtQcmJiX0RkclBvR0tqNHMyUHdELUJrWWwxelF2VGRsMVF2aElLLW04UQ?oc=5",
+   "title": "Mortgage rates today, Nov. 24, 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLVMwV3lXcFk5WWlCNkEzbFJzVmRvcFhlMUQ4ZkxYZTkweW9IclRqT3JPcUhZWS01UG5kZ19NSzd5LXUyRWxWaENlX1p5YUtMaTNWUHE0V1ZUU1h6c0VnLV9fOUlvQ29ydWFiQm1Wdw?oc=5",
    "outlet": "Fortune",
-   "published": "2026-11-23",
+   "published": "2026-11-24",
    "preferred": true
   },
   {
-   "title": "Mortgage and refinance interest rates today, Monday, November 23, 2026: Purchase mortgage rates lower than refinance rates",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQkZCQWRzZXVBTW9SRnd1YklkZWhXSlpxRTVhMTNyR3cwT2hEUGxYLXJFeEZyMElTeHNoODh0SWJBS0JmQk1QdEt3RE9ETmswV1JGby01c21GTllrd24zYkJ6TEhzcXota3N3SnYxcjBVY1ItTzlvX0dSWU01UHNGbkw0cWVlZDhXWHFVdlFKaE91S0tYVmRpMVFwNXBsX3p3ZExCWEhLY3R0YnZiNEJLT3lzOThlSEVzbHVocWlxSDB4R1VFX2FEajA3NXZXbTNDVEZIekI3OGVGRnFJYVRCUDE5amRpV2x0RFNPTko1Y2MyRG5nT1ZEemtEYllxZE9Rd3ZwZGd4VWlkb3FKblY3QmVsb3lFX1p3V2F1QlNsaw?oc=5",
+   "title": "Mortgage and refinance interest rates today, Tuesday, November 24, 2026: Rates down substantially from yesterday and last week",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWk9hS2NWeHBSM1E4OGRpLU1MTkFvR2hoU3MxQzhVc1BwTW9qOVR2V25aZWR0U0ZBR3AyX2NEczRWdE5YTGNzWHZNWWFNVXUzUXdkMW5fUW1tWXliLWlmc2N3OV9OdDg3d3J0Z3JQeFZNZEtpMi00UkkwbF9nS0dlR1ZMdi1jWk8wRE9ZbzgyX3VHb3NQNnhzbDB3dUhqQUFhRW5Nd0Vtbk5XMlB1cWZ2TkYwa0VFczJNX3FVLU9NRVlNSklzNFViXy1ncHpQMWZkSVJwMHAyUUZZNlhMeWpsZ29oS0p5UEZhYVc4aWU2S3RZZzU2VkVWUVk1OGwwYS1ubDVLQzdUNmRoMGFfQ1RMQXk3U0hfeUJoWUY4VUNPUEdtdk5r?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-11-23",
+   "published": "2026-11-24",
    "preferred": true
   }
  ]
