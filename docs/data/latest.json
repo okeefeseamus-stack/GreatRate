@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-24T18:00-05:00",
- "date": "2026-11-24",
- "rate": 6.73,
- "previous": 6.78,
- "change": -0.05,
+ "updated_at": "2026-11-25T17:30-05:00",
+ "date": "2026-11-25",
+ "rate": 6.67,
+ "previous": 6.73,
+ "change": -0.06,
  "averaged_count": 3,
  "sources": [
   {
@@ -14,8 +14,8 @@
    "note": "Actual locked rates, prior business day",
    "in_average": true,
    "type": "fred",
-   "value": 6.546,
-   "as_of": "2026-11-23",
+   "value": 6.528,
+   "as_of": "2026-11-24",
    "error": null,
    "excluded": false
   },
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 6.87,
-   "as_of": "2026-11-24",
+   "value": 6.82,
+   "as_of": "2026-11-25",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.766,
-   "as_of": "2026-11-24",
+   "value": 6.667,
+   "as_of": "2026-11-25",
    "error": null,
    "excluded": false
   },
@@ -50,8 +50,8 @@
    "note": "Weekly survey, Thursdays",
    "in_average": false,
    "type": "fred",
-   "value": 6.66,
-   "as_of": "2026-11-19",
+   "value": 6.54,
+   "as_of": "2026-11-25",
    "error": null,
    "excluded": false
   },
@@ -78,14 +78,14 @@
    "date": "2026-07-01"
   },
   "rate_30y": {
-   "value": 7.171,
-   "date": "2026-11-23",
+   "value": 7.141,
+   "date": "2026-11-24",
    "series": "OBMMIC30YF",
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 4.92,
-   "date": "2026-11-23",
+   "value": 4.91,
+   "date": "2026-11-24",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.44
+   "value": 0.47
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
    "outlet": "NerdWallet",
-   "published": "2026-11-24",
+   "published": "2026-11-25",
    "preferred": true
   },
   {
-   "title": "Compare Today\u2019s Mortgage Rates",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-24",
+   "published": "2026-11-25",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Nov. 24, 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLVMwV3lXcFk5WWlCNkEzbFJzVmRvcFhlMUQ4ZkxYZTkweW9IclRqT3JPcUhZWS01UG5kZ19NSzd5LXUyRWxWaENlX1p5YUtMaTNWUHE0V1ZUU1h6c0VnLV9fOUlvQ29ydWFiQm1Wdw?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-11-24",
-   "preferred": true
-  },
-  {
-   "title": "Mortgage and refinance interest rates today, Tuesday, November 24, 2026: Rates down substantially from yesterday and last week",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWk9hS2NWeHBSM1E4OGRpLU1MTkFvR2hoU3MxQzhVc1BwTW9qOVR2V25aZWR0U0ZBR3AyX2NEczRWdE5YTGNzWHZNWWFNVXUzUXdkMW5fUW1tWXliLWlmc2N3OV9OdDg3d3J0Z3JQeFZNZEtpMi00UkkwbF9nS0dlR1ZMdi1jWk8wRE9ZbzgyX3VHb3NQNnhzbDB3dUhqQUFhRW5Nd0Vtbk5XMlB1cWZ2TkYwa0VFczJNX3FVLU9NRVlNSklzNFViXy1ncHpQMWZkSVJwMHAyUUZZNlhMeWpsZ29oS0p5UEZhYVc4aWU2S3RZZzU2VkVWUVk1OGwwYS1ubDVLQzdUNmRoMGFfQ1RMQXk3U0hfeUJoWUY4VUNPUEdtdk5r?oc=5",
+   "title": "When will mortgage rates go down? Thanksgiving for slightly lower home loan rates",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZHJiYVFYOHI3ZHlCV05fbTFYUzVpRzVURUlORUFLcGdqY1JoRHRrdzFqRkhXb3JlbWp5aFlQcENsektDNVlXWDlQMXNXNGlta2g4OU5xQ1RRLVkxQW9aZFpKbG90aWhyYUV0ODN6cHl1bUlXX2JuNGxuYnlydVNQSFVTOXV6bExwNGUxdlRWLU9Pb1pZQWJfZkhrMl9VOVZsMHIyektzMmpkb0xGRzBHZTRBOFEwcmlYVGl2bjN1MmQ3Y0licDRDWTRJeVkxQ1Z1M1hDdWRmS3FMaGdxUWstcEdHV1hDWHpHTXItNA?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-11-24",
+   "published": "2026-11-25",
+   "preferred": true
+  },
+  {
+   "title": "Mortgage rates today, Nov. 25, 2026: Rates show small decrease",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNFZKQVNleXNfeW5IYjNyUUVnYVpHWFRPdjZfYXFTOEFnR3BjMjRfeVIybzZ4RmMzODktU2ZwUkZLUkdDNGNrV0w1M05pT3BUQmREOU1oTDlCZzVVVHZMY0NwdjZSMWdwTWRhcHVtWQ?oc=5",
+   "outlet": "Fortune",
+   "published": "2026-11-25",
    "preferred": true
   }
  ]
