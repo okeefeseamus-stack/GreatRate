@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-25T17:30-05:00",
- "date": "2026-11-25",
+ "updated_at": "2026-11-26T17:20-05:00",
+ "date": "2026-11-26",
  "rate": 6.67,
- "previous": 6.73,
- "change": -0.06,
+ "previous": 6.67,
+ "change": 0.0,
  "averaged_count": 3,
  "sources": [
   {
@@ -27,7 +27,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 6.82,
-   "as_of": "2026-11-25",
+   "as_of": "2026-11-26",
    "error": null,
    "excluded": false
   },
@@ -39,7 +39,7 @@
    "in_average": true,
    "type": "scrape",
    "value": 6.667,
-   "as_of": "2026-11-25",
+   "as_of": "2026-11-26",
    "error": null,
    "excluded": false
   },
@@ -104,28 +104,28 @@
    "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
    "outlet": "NerdWallet",
-   "published": "2026-11-25",
+   "published": "2026-11-26",
    "preferred": true
   },
   {
-   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "title": "Compare Today\u2019s Mortgage Rates",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-25",
+   "published": "2026-11-26",
    "preferred": true
   },
   {
-   "title": "When will mortgage rates go down? Thanksgiving for slightly lower home loan rates",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZHJiYVFYOHI3ZHlCV05fbTFYUzVpRzVURUlORUFLcGdqY1JoRHRrdzFqRkhXb3JlbWp5aFlQcENsektDNVlXWDlQMXNXNGlta2g4OU5xQ1RRLVkxQW9aZFpKbG90aWhyYUV0ODN6cHl1bUlXX2JuNGxuYnlydVNQSFVTOXV6bExwNGUxdlRWLU9Pb1pZQWJfZkhrMl9VOVZsMHIyektzMmpkb0xGRzBHZTRBOFEwcmlYVGl2bjN1MmQ3Y0licDRDWTRJeVkxQ1Z1M1hDdWRmS3FMaGdxUWstcEdHV1hDWHpHTXItNA?oc=5",
+   "title": "Mortgage and refinance interest rates today, Thursday, November 26, 2026: Mortgage rates mostly move lower",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPREVEWksxemd0Mm5DeHk5NWlzdVVVSjhNMTl6NVg4Q0h2MGVYSkpPUEtfVHo5ZVdDS3FMcWNnTVdwQkFrVC1uMDd2enN3Z3haQUNSaGRzdi1jX2RlVXdTclZOWmRXOGJMc1JEVWVGenBhNGhjVVBxTEhURUlaSTF3OVNCMWItbVE2a1hzeTYxdDZFR0JVY09rMVk2RDZhLU9lWEVlOXNPTGNEVklGMjc1a2NrbW5mMnp3OW92RERXM3VYZTJQX2FWMjJPeFVWVTVFMFIxb0hUakI2RWhycThkM2NCTU9VcEk5cnVtVW11YnRQckJnUG92cmtMaEpVZktuN2NOVllzSDZzZw?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-11-25",
+   "published": "2026-11-26",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Nov. 25, 2026: Rates show small decrease",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNFZKQVNleXNfeW5IYjNyUUVnYVpHWFRPdjZfYXFTOEFnR3BjMjRfeVIybzZ4RmMzODktU2ZwUkZLUkdDNGNrV0w1M05pT3BUQmREOU1oTDlCZzVVVHZMY0NwdjZSMWdwTWRhcHVtWQ?oc=5",
+   "title": "Mortgage rates today, Nov. 26, 2026: Rates take another small step down",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53a053WkQ5R2tQenlYRjBsaTFiYjRETFVBb014ZVRQdms3ejNPMG5hX19XdTVMbW1Rd3R3UlF1LWZuSE5zVW5QN05KcHoyMkdydzVaaDNtc2ZhUHM2X0F4X1d3MzFabTduRlZuVUc0MA?oc=5",
    "outlet": "Fortune",
-   "published": "2026-11-25",
+   "published": "2026-11-26",
    "preferred": true
   }
  ]
