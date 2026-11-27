@@ -1,10 +1,10 @@
 {
  "title": "15-Year Rate Watch",
- "updated_at": "2026-11-26T17:20-05:00",
- "date": "2026-11-26",
- "rate": 6.67,
+ "updated_at": "2026-11-27T16:57-05:00",
+ "date": "2026-11-27",
+ "rate": 6.7,
  "previous": 6.67,
- "change": 0.0,
+ "change": 0.03,
  "averaged_count": 3,
  "sources": [
   {
@@ -26,8 +26,8 @@
    "note": "Daily lender survey",
    "in_average": true,
    "type": "scrape",
-   "value": 6.82,
-   "as_of": "2026-11-26",
+   "value": 6.93,
+   "as_of": "2026-11-27",
    "error": null,
    "excluded": false
   },
@@ -38,8 +38,8 @@
    "note": "Partner-network quotes",
    "in_average": true,
    "type": "scrape",
-   "value": 6.667,
-   "as_of": "2026-11-26",
+   "value": 6.65,
+   "as_of": "2026-11-27",
    "error": null,
    "excluded": false
   },
@@ -84,8 +84,8 @@
    "url": "https://fred.stlouisfed.org/series/OBMMIC30YF"
   },
   "treasury_10y": {
-   "value": 4.91,
-   "date": "2026-11-24",
+   "value": 4.85,
+   "date": "2026-11-25",
    "series": "DGS10",
    "url": "https://fred.stlouisfed.org/series/DGS10"
   },
@@ -96,7 +96,7 @@
    "url": "https://fred.stlouisfed.org/series/MSPUS"
   },
   "spread_30_15": {
-   "value": 0.47
+   "value": 0.44
   }
  },
  "news": [
@@ -104,28 +104,28 @@
    "title": "Today\u2019s Refinance Mortgage Rates | Rates Chart",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
    "outlet": "NerdWallet",
-   "published": "2026-11-26",
+   "published": "2026-11-27",
    "preferred": true
   },
   {
-   "title": "Compare Today\u2019s Mortgage Rates",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+   "title": "Current New York Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLW83dVNhdGxxUkZhZ25RS3RtN0tFSkw0RWhScmVlLUQxMFdsQnRhMDlkcjRQaXJMa3duS0FhUzZhbFh2cmx1UVFoS1o2MjFQQXRwSThUaEZhZklIQ3I5WmJzXzRmV1FzYXNUdG8tS191Zw?oc=5",
    "outlet": "Forbes",
-   "published": "2026-11-26",
+   "published": "2026-11-27",
    "preferred": true
   },
   {
-   "title": "Mortgage and refinance interest rates today, Thursday, November 26, 2026: Mortgage rates mostly move lower",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPREVEWksxemd0Mm5DeHk5NWlzdVVVSjhNMTl6NVg4Q0h2MGVYSkpPUEtfVHo5ZVdDS3FMcWNnTVdwQkFrVC1uMDd2enN3Z3haQUNSaGRzdi1jX2RlVXdTclZOWmRXOGJMc1JEVWVGenBhNGhjVVBxTEhURUlaSTF3OVNCMWItbVE2a1hzeTYxdDZFR0JVY09rMVk2RDZhLU9lWEVlOXNPTGNEVklGMjc1a2NrbW5mMnp3OW92RERXM3VYZTJQX2FWMjJPeFVWVTVFMFIxb0hUakI2RWhycThkM2NCTU9VcEk5cnVtVW11YnRQckJnUG92cmtMaEpVZktuN2NOVllzSDZzZw?oc=5",
+   "title": "Mortgage and refinance interest rates today, Friday, November 27, 2026: Mortgage rates mixed leading up to the weekend",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQmtweWI5bEZhOWRCeGc1TWhoTi1wWF9SOUFyb3ZQUzVibWZqRExOb1JENHNHUzRrZGFraEREZmpTTloweXBLWmdMZmd0NmZuWHc5cnZMN3pobVdaOVVUeXB5Y0lPZmttQWNtRXRPR0pxSjVuR2N5aTNkUWhCRlJPRTFfaGh1Zno3bjdvTkZ4NVhOZWhXYnFWTDR3T0dINWNDNmsxWXBiYThYbFZVTHBfc3JHRzBFaXBSdTBuTGJ0NXdySlV6ak1aMHhzd1drNDFUV09YNy1aMUJUUWZDNmdKd1RPMU5MRjdabG1hN2JObXBUN2lielRiY3BVcXlCVTNZWDBRZk10d2EzMnRoN3dNU3RGLUVCWUU3YWRKSzl3Z1ZwNW5Mc3JB?oc=5",
    "outlet": "Yahoo Finance",
-   "published": "2026-11-26",
+   "published": "2026-11-27",
    "preferred": true
   },
   {
-   "title": "Mortgage rates today, Nov. 26, 2026: Rates take another small step down",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53a053WkQ5R2tQenlYRjBsaTFiYjRETFVBb014ZVRQdms3ejNPMG5hX19XdTVMbW1Rd3R3UlF1LWZuSE5zVW5QN05KcHoyMkdydzVaaDNtc2ZhUHM2X0F4X1d3MzFabTduRlZuVUc0MA?oc=5",
-   "outlet": "Fortune",
-   "published": "2026-11-26",
+   "title": "Current Minnesota Mortgage And Refinance Rates",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5udFc1REphM3p3YnBUYUd2SG55Q1NtbWZkTU8zMWt4a0JiWFJKOXNJcExMdGJTNnRvV3YxSU9HWTJRYU5QZTRjbEVxTDRLNFJqX1Y1MWp3LWlDa01IVS1pQ0xFUzI0eFM3eGM2Ml8ybThFSlU?oc=5",
+   "outlet": "Forbes",
+   "published": "2026-11-27",
    "preferred": true
   }
  ]
